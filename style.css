@@ -101,7 +101,6 @@ p {
 }
 .banner-col-b img {
 	width: 600px;
-	margin-left: 70px;
 }
 .img-box h4 {
 	font-size: 20px;
@@ -258,8 +257,7 @@ p {
 @media only screen and (max-width: 1440px) {
 	
 .banner-col-b img {
-	width: 720px;
-	margin-left: 0px;
+	width: 600px;
 }	
 	
 }
@@ -267,8 +265,7 @@ p {
 @media only screen and (max-width: 1366px) {
 	
 .banner-col-b img {
-	width: 720px;
-	margin-left: -50px;
+	width: 600px;
 }	
 		
 }
@@ -282,8 +279,7 @@ p {
 	padding: 50px 32px 50px;
 }
 .banner-col-b img {
-	width: 690px;
-	margin-left: -50px;
+	width: 600px;
 }
 	
 }
@@ -306,7 +302,7 @@ p {
 	width: 28%;
 }
 .banner-col-b img {
-	width: 650px;
+	width: 600px;
 }
 h2 {
 	font-size: 55px;
@@ -367,9 +363,7 @@ p {
 	width: 31%;
 }	
 .banner-col-b img {
-	width: 530px;
-	margin-left: -20px;
-	margin-top: 50px;
+	width: 600px;
 }	
 h2 {
 	font-size: 50px;
